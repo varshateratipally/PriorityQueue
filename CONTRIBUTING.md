@@ -12,6 +12,8 @@ Good understanding of the systems programming is an added advantage.
 
 # How Can I Contribute?
 
+The contribution can be done in any of the following ways.
+
 ## Reporting Bugs
 
 Before creating bug reports, please check this list as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible such as clear description of the title and steps to replicate the bug on the developer machine. Fill out the required template, the information it asks for helps us resolve issues faster.
