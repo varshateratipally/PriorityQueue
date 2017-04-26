@@ -1,4 +1,4 @@
-TARGET=example
+TARGET=priority_implementation
 
 all:	$(TARGET)
 
